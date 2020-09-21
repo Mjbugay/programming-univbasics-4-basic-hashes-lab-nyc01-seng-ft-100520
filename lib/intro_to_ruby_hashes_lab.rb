@@ -4,7 +4,6 @@ end
 
 def my_hash {
   :name => "Matt"
-  :age => 34
 }
 end
 
